@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **React & Redux**<br>📝 I regularly write articles on [https://redsurgetechnology.com/blog/](https://redsurgetechnology.com/blog/)<br>📫 How to reach me **collin.stewart30@yahoo.com**<br>⚡ Fun fact **I played professional basketball.**
+🌱 I’m currently learning **React**<br>📝 I regularly write articles on [https://redsurgetechnology.com/blog/](https://redsurgetechnology.com/blog/)<br>📫 How to reach me **collin.stewart30@yahoo.com**<br>⚡ Fun fact **I played professional basketball.**
 
 
 ## 🌐 Socials:
